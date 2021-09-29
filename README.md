@@ -5,7 +5,7 @@ PPL was developed  with Microsoft Developer Studio 2019,C#, without using any th
 The main PPL feature – extensibility, using functionalities of C# and adding user’s libraries by means of creating DLLs.
 This project includes TutorialPPL.pdf, command-line REPL utility (PPL interpreter), 6 DLLs for using C# libraries and examples.
 List of DLLs with C# functionalities will be expanded in the next versions.
-CPPL.zip file it is self-contained win-x64 version,
+CPPL.zip file it is framework-dependent win-x64 version,
 Target framework .Net Core 3.1.
 
 1. Unzip CPPL.zip
