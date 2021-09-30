@@ -10,10 +10,10 @@ Target framework .Net Core 3.1.
 
 1. Unzip CPPL.zip
 2. Read Tutorial.pdf
-3. Run all examples
-   cd cppl
+3. Run all examples - 
+   cd cppl, 
    examples.bat
-4. Run command-line interpreter
+4. Run command-line interpreter - 
    cppl.exe
    
 For help and any kind of proposals send email to developer: 
