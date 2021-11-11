@@ -6,7 +6,7 @@ The main PPL feature – extensibility, using functionalities of C# and adding u
 This project includes TutorialPPL.pdf, command-line REPL utility (PPL interpreter), 6 DLLs for using C# libraries and examples.
 List of DLLs with C# functionalities will be expanded in the next versions.
 CPPL.zip file it is framework-dependent win-x64 version,
-Target framework .Net Core 3.1.
+Target framework .Net 5.0.
 
 1. Unzip CPPL.VERSION.zip
 2. Read TutorialPPL.VERSION.pdf
