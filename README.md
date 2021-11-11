@@ -15,6 +15,11 @@ Target framework .Net 5.0.
    examples.bat
 4. Run command-line interpreter - 
    cppl.exe or wppl.exe 
-   
+
+What's new in version 1.0.6:
+   - fixed bugs
+   - added windows interpreter wppl.exe
+   - added 3 libraries: Dictionary, Stack, Queue
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
