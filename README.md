@@ -8,13 +8,13 @@ List of DLLs with C# functionalities will be expanded in the next versions.
 CPPL.zip file it is framework-dependent win-x64 version,
 Target framework .Net Core 3.1.
 
-1. Unzip CPPL.zip
-2. Read Tutorial.pdf
+1. Unzip CPPL.VERSION.zip
+2. Read TutorialPPL.VERSION.pdf
 3. Run all examples - 
    cd cppl, 
    examples.bat
 4. Run command-line interpreter - 
-   cppl.exe
+   cppl.exe or wppl.exe 
    
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
