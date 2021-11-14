@@ -20,6 +20,7 @@ What's new in version 1.0.6:
    - fixed bugs
    - added windows interpreter wppl.exe
    - added 3 libraries: Dictionary, Stack, Queue
+   
 What's new in version 1.0.7:
    - added infinity loop
    - added example gcf.scr
