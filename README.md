@@ -25,5 +25,9 @@ What's new in version 1.0.7:
    - added infinity loop
    - added example gcf.scr
 
+What's new in version 1.0.8  (coming soon):
+   - upgrade to .NET6
+   - addition libraries: File, MathNet
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
