@@ -29,5 +29,9 @@ What's new in version 1.0.8:
    - upgrade to .NET6
    - added libraries: File, Random,Vector, Matrix,MN_Numerics and MathNet.Numerics
 
+What's new in version 1.0.9:
+   - added cmd calc
+   - added concept of public and private variables
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
