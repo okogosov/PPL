@@ -32,6 +32,7 @@ What's new in version 1.0.8:
 What's new in version 1.0.9:
    - added cmd calc
    - added concept of public and private variables
+   
 What's new in version 1.0.10:
    - added commands displaynode, getnodes and getleves to work with hierarchical data structure
    - added types in Vector and Matrix libraries 
