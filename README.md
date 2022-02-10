@@ -38,6 +38,7 @@ What's new in version 1.0.10:
    - added types in Vector and Matrix libraries 
    - added highlighting support of keywords for editor Notepad++
    - fixed bugs 
+   
 What's new in version 1.0.11
    - added commands sleep, write#
    - added Library Console
