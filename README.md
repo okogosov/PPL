@@ -47,6 +47,7 @@ What's new in version 1.0.11
    - fixed bugs
 
 What's new in version 1.0.12
+   - this version limited for complex calculations
    - added cmds call, funcname and examples
    - libraries Vector and Matrix are changed
    - significantly improved performance
