@@ -54,5 +54,12 @@ What's new in version 1.0.12
    - improved compound statements syntax
    - fixed bugs
 
+What's new in version 1.0.13
+   - added cmds traceppl, recreate, argc
+   - added delete methods to ArrayList.dll, Queue.dll,Stack.dll,Dictionary.dll
+   - improved machanism transmit data between functions
+   - added samples
+   - fixed bugs
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
