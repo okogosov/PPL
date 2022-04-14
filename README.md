@@ -60,7 +60,8 @@ What's new in version 1.0.13
    - improved machanism transmit data between functions
    - added samples
    - fixed bugs
-What's new in version 1.0.15
+   
+   - What's new in version 1.0.15
    - added utility Assistant. PPL Assistant displays format commands in ppl and scr modes.  
      As well this application displays format methods in additional libraries. 
    - added to utility CreateUserLibCode generation methods
