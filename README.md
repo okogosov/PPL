@@ -64,7 +64,7 @@ What's new in version 1.0.15
    - added utility Assistant. PPL Assistant displays format commands in ppl and scr modes.  
      As well this application displays format methods in additional libraries. 
    - added to utility CreateUserLibCode generation methods
-   - added methods to user libraries
+   - added methods to libraries
    - added command getargname 
 
 
