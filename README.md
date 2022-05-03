@@ -68,6 +68,11 @@ What's new in version 1.0.15
    - added methods to libraries
    - added command getargname 
 
+What's new in version 1.0.16
+- added library Array
+- added support delegates and callbacks
+- changed utility CreateULC.exe
+
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
