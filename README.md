@@ -73,6 +73,10 @@ What's new in version 1.0.16
 - added support delegates and callbacks
 - changed utility CreateULC.exe
 
+What's new in version 1.0.17
+- added command setkvp
+- changed algorithm processing command set
+- fixed bugs
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
