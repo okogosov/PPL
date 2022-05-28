@@ -1,20 +1,30 @@
 DataFrame library will be added in version v.1.0.18
-This library contains methods to create, set, print, save, etc.
+This library contains methods:
+Create, Set, 
+Write, 
+Read and Save files *.csv , *.data,
+AddRows, AddColumns, etc.
 For example -
 
+file df.csv:
+Ljubljana,279631,163.8,295,386,1712
+Kranj,37941,148,386,386,181
+Maribor,94370,40.98,275,386,2366
+Novo Mesto,24183,33.3,181,386,730
+
 import DataFrame;
-DataFrame.Create(DF)(5)(City)(Population)(Area)(Elevation);
-DataFrame.SetRow(0)(DF)(Ljubljana)(279631)(163.8)(295);
-DataFrame.SetRow(1)(DF)(Kranj)(37941)(148)(386);
-DataFrame.SetRow(2)(DF)(Maribor)(94370)(40.98)(275);
-DataFrame.SetRow(3)(DF)(Novo Mesto)(24183)(33.3)(181);
+DataFrame.Create(DF)(5)(City)(Population)(Area)(Elevation)(Code)(Density);
+set DF.Property.PopulationType = Digit;   // input only digital data
+set DF.Property.CityWidth = 15;           // column width for presentation
+
+DataFrame.Read(DF)(df.csv);
 DataFrame.Write(DF);
 
 /* results
-    City                Population          Area                Elevation
+     City           Population  Area       Elevation   Code   Density
 
-0    Ljubljana           279631              163.8               295
-1    Kranj               37941               148                 386
-2    Maribor             94370               40.98               275
-3    Novo Mesto          24183               33.3                181
+0    Ljubljana      279631      163.8       295         386    1712
+1    Kranj          37941       148         386         386    181
+2    Maribor        94370       40.98       275         386    2366
+3    Novo Mesto     24183       33.3        181         386    730
 */
