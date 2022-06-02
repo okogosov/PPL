@@ -83,7 +83,7 @@ What's new in version 1.0.18
 - added library DataFrame, source files in DataFrame.zip, explanations in TutorialPPL.pdf, samples in CPPL.zip(directory examples\df\*.scr). This library will be increased to the desire of users.
 - fixed bugs
 - CPPL.exe icon is changed to icon with ping-pong player, because abbreviation PPL may be interpreted as Ping-Pong Language, instead of Parenthesis Programming Language.
-I thank my old friend Leonid Feygin for using PPL in statistical programs and help with PPL troubleshooting.
+- I thank my old friend Leonid Feygin for using PPL in statistical programs and help with PPL troubleshooting.
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
