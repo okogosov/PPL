@@ -85,5 +85,10 @@ What's new in version 1.0.18
 - CPPL.exe icon is changed to icon with ping-pong player, because abbreviation PPL may be interpreted as Ping-Pong Language, instead of Parenthesis Programming Language.
 - I thank my old friend Leonid Feygin for using PPL in statistical programs and help with PPL troubleshooting.
 
+What's new in version 1.0.19
+- added cmd 'struct' and function CopyStruct
+- added Statistics library (sources and samples) based on MathNet.Numerics.Statistics
+- fixed bugs
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
