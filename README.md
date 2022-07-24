@@ -97,7 +97,8 @@ What's new in version 1.0.20
 - added passing array to functions by this manner: function f({1,2,3...})
 - added cmds sumdata, gettoken
 - added the following cmds to scr-mode: writearray, delegate,dlgtinst,dlgset,dlgtcall,callback 
-- added arument "row" to cmd writearray
+- added argument "row" to cmd writearray
+- see Tutorial.pdf about all above changes
 - fixed bugs
 
 For help and any kind of proposals send email to developer: 
