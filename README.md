@@ -91,9 +91,11 @@ What's new in version 1.0.19
 - fixed bugs
 
 What's new in version 1.0.20
-- added array cmds - array.push, array.pop,array.reverse, array.shift, array.remove,
-                     array.clear, array.unshift, array.insert
-- added functions to file CommonFunctions (array service)
+- added array cmds - 
+            array.push, array.pop,array.reverse, array.shift, array.remove,
+            array.clear, array.unshift, array.insert
+- added functions to file CommonFunctions (array service) - 
+           CsvToArray, ArrayToCsv, ArrayIndexOf, ArrayLastIndexOf, ArrayForEach
 - added passing array to functions by this manner: function f({1,2,3...})
 - added cmds sumdata, gettoken
 - added the following cmds to scr-mode: writearray, delegate,dlgtinst,dlgset,dlgtcall,callback 
