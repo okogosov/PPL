@@ -104,7 +104,7 @@ What's new in version 1.0.20
 - fixed bugs
 ======================================================================================
 Library for connection PPL with MathNet.Numerics.Distributions 
-Now accessible static functions for classes Normal, ChiSquared,FisherSnedecor,StudenT
+Now accessible static functions for classes Normal, ChiSquared,FisherSnedecor,StudentT
 ======================================================================================
 
 For help and any kind of proposals send email to developer: 
