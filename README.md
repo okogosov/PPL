@@ -102,6 +102,10 @@ What's new in version 1.0.20
 - added argument "row" to cmd writearray
 - see Tutorial.pdf about all above changes
 - fixed bugs
+======================================================================================
+Library for connection PPL with MathNet.Numerics.Distributions 
+Now accessible static functions for classes Normal, ChiSquared,FisherSnedecor,StudenT
+======================================================================================
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
