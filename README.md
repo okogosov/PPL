@@ -107,5 +107,11 @@ Library for connection PPL with MathNet.Numerics.Distributions
 Now accessible static functions for classes Normal, ChiSquared,FisherSnedecor,StudentT
 ======================================================================================
 
+What's new in version 1.0.21
+- added Distributions library (classes Normal, ChiSquared,FisherSnedecor,StudentT)
+- instead of utlity CreateUserLib -> new utlility ULC.exe 
+- fixed bugs.
+
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
