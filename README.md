@@ -116,6 +116,7 @@ What's new in version 1.0.22
 - improved processing comparison and logical operations
 - added assigning comparison and logical to operator set
 - added ?: operator (only one-time) to operator set 
+- PCR - struct in block (not fixed)
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
