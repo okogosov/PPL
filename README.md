@@ -118,7 +118,7 @@ What's new in version 1.0.22
 - added ?: operator (only one-time) to operator set 
 - PCR - struct in block (not fixed)
 
-What's new in version 1.0.22
+What's new in version 1.0.23
 - added mode to command createpplcode (cpc)
 - improved diagnostic
 - added commands definestruct, insertstruct, createstruct instead of commands struct and function copystruct
