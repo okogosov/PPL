@@ -124,7 +124,7 @@ What's new in version 1.0.23
 - added commands definestruct, insertstruct, createstruct instead of commands struct and function copystruct
 
 TestGetContents.zip 
-   GetContents - to get string between start & end characters in string, contained quotes.
+   GetContents - to get string between start & end characters in string, contained quotes. This function used in preprocessor PPL
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
