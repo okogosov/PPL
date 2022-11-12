@@ -123,5 +123,8 @@ What's new in version 1.0.23
 - improved diagnostic
 - added commands definestruct, insertstruct, createstruct instead of commands struct and function copystruct
 
+TestGetContents.zip 
+   GetContents - to get string between start & end characters in string, contained quotes.
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
