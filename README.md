@@ -126,5 +126,9 @@ What's new in version 1.0.23
 TestGetContents.zip 
    GetContents - to get string between start & end characters in string, contained quotes. This function used in preprocessor PPL
 
+What's new in version 1.0.24
+   -added using Math-functions to preprocessor PPL, see in details in Tutorial
+   -improved error diagnoctic and fixed bugs
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
