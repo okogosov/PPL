@@ -102,10 +102,10 @@ What's new in version 1.0.20
 - added argument "row" to cmd writearray
 - see Tutorial.pdf about all above changes
 - fixed bugs
-======================================================================================
+
 Library for connection PPL with MathNet.Numerics.Distributions 
 Now accessible static functions for classes Normal, ChiSquared,FisherSnedecor,StudentT
-======================================================================================
+
 
 What's new in version 1.0.21
 - added Distributions library (classes Normal, ChiSquared,FisherSnedecor,StudentT)
@@ -129,6 +129,13 @@ TestGetContents.zip
 What's new in version 1.0.24
    -added using Math-functions to preprocessor PPL, see in details in Tutorial
    -improved error diagnoctic and fixed bugs
+
+What's new in version 1.0.25
+   - upgrade to .NET7
+   - added type 'storage' for function parameters
+   - improved error diagnostic for cmds 'var' and 'const'
+   - fixed bug cmd 'definestruct' 
+
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
