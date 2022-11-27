@@ -136,6 +136,7 @@ What's new in version 1.0.25
    - improved error diagnostic for cmds 'var' and 'const'
    - fixed bug cmd 'definestruct' 
 
+Added TestQMString.zip - string with quotes processing  
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
