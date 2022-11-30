@@ -137,6 +137,9 @@ What's new in version 1.0.25
    - fixed bug cmd 'definestruct' 
 
 Added TestQMString.zip - string with quotes processing  
-
+Added sample Erato.zip (Sieve of Eratosphenes) - 
+   C# code Erato.dll, 
+   scr code Erato.scr, contains Vector.dll, Erato.dll 
+   
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
