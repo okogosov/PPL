@@ -4,7 +4,9 @@ PPL includes a preprocessor to simplify the writing programs and reduce the numb
 PPL was developed  with Microsoft Developer Studio,C#, without using any third party packages.  
 
 The main PPL features:
+
    -extensibility, using functionalities of C# and adding user’s libraries by means of creating DLLs.
+   
    -possibility to add all PPL-functionality to any user Applicaions.
 
 This project includes TutorialPPL.pdf, command-line REPL utility (PPL interpreter) and other utilities , DLLs for using C# libraries, examples.
