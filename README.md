@@ -2,12 +2,15 @@
 PPL is the Parenthesis Programming Language, in which all elements (statements, parameters, blocks) are enclosed in parentheses. 
 PPL includes a preprocessor to simplify the writing programs and reduce the number of parentheses.
 PPL was developed  with Microsoft Developer Studio,C#, without using any third party packages.  
-The main PPL features
--extensibility, using functionalities of C# and adding user’s libraries by means of creating DLLs.
--possibility to add all PPL-functionality to any user Applicaions.
+
+The main PPL features:
+   -extensibility, using functionalities of C# and adding user’s libraries by means of creating DLLs.
+   -possibility to add all PPL-functionality to any user Applicaions.
+
 This project includes TutorialPPL.pdf, command-line REPL utility (PPL interpreter) and other utilities , DLLs for using C# libraries, examples.
 List of DLLs with C# functionalities will be expanded in the next versions.
-CPPL.zip file it is framework-dependent win-x64 version,
+CPPL.zip file it is framework-dependent win-x64 version.
+
 Target framework .Net 7.0.
 
 1. Unzip CPPL.VERSION.zip
