@@ -148,5 +148,11 @@ Added sample Erato.zip (Sieve of Eratosphenes) -
    C# code Erato.dll, 
    scr code Erato.scr, contains Vector.dll, Erato.dll 
    
+09/12/22 - Added project   PJ.zip PPL (Preprocessor Code Generator), includes PatternJson.dll
+   
+   This project is illustration of PPL Preprocessor:
+	converts  file.scr   to file.ppl in accordance with grammar, 
+	defined in files Patterns.json & Keywords.json, read README.txt with detailed explanations
+   
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
