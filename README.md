@@ -159,6 +159,7 @@ Added sample Erato.zip (Sieve of Eratosphenes) -
 What's new in version 1.0.26 (coming soon)
    - added format scr for the following commands:
    	storage commands, realloc, createpplcode (cpc)
+   - changed cmd 'import' - load dll from user directory 	
    - added passing structures to functions	
    - improved mechanism passing data to functions
    - improved error diagnostic and fixed bugs
