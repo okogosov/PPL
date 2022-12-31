@@ -1,7 +1,8 @@
 # PPL
 PPL is the Parenthesis Programming Language, in which all elements (statements, parameters, blocks) are enclosed in parentheses. 
 PPL includes a preprocessor to simplify the writing programs and reduce the number of parentheses.
-PPL was developed  with Microsoft Developer Studio,C#, without using any third party packages.  
+PPL was developed  with Microsoft Developer Studio,C#, without using any third party packages.
+PPL is interpreted language, source code (format scr)  is translated into intermediate representation (format ppl) for immedeately execution.
 
 The main PPL features:
 
@@ -153,6 +154,15 @@ Added sample Erato.zip (Sieve of Eratosphenes) -
    This project is illustration of PPL Preprocessor:
 	converts  file.scr   to file.ppl in accordance with grammar, 
 	defined in files Patterns.json & Keywords.json, read README.txt with detailed explanations
-   
+
+What's new in version 1.0.26 (coming soon)
+   - added format scr for the following commands:
+   	storage commands, realloc, createpplcode (cpc)
+   - added passing structures to functions	
+   - improved mechanism passing data to functions
+   - improved error diagnostic and fixed bugs
+   - changed Tutorial
+   - added samples
+
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
