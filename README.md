@@ -156,7 +156,7 @@ Added sample Erato.zip (Sieve of Eratosphenes) -
 	converts  file.scr   to file.ppl in accordance with grammar, 
 	defined in files Patterns.json & Keywords.json, read README.txt with detailed explanations
 
-What's new in version 1.0.26
+What's new in version 1.0.26 (added 04/01/2023)
    - added format scr for the following commands:
    	storage commands, realloc, createpplcode (cpc)
    - changed cmd 'import' - load dll from user directory 	
