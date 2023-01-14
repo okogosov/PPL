@@ -165,6 +165,15 @@ What's new in version 1.0.26 (added 04/01/2023)
    - improved error diagnostic and fixed bugs
    - changed Tutorial
    - added samples
+What's new in version 1.0.27 (added 14/01/2023)
+   - added cmd setloopend
+   - added to scr-mode cmds: readdata, savedata
+   - added numerous creation: var x1,x2,x3... [= ...]
+	 const x1,x2,x3 = ...
+   - deleted Aliases.data
+   - improved error dignostics
+   	 
+
 
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
