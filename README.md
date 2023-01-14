@@ -165,6 +165,7 @@ What's new in version 1.0.26 (added 04/01/2023)
    - improved error diagnostic and fixed bugs
    - changed Tutorial
    - added samples
+   
 What's new in version 1.0.27 (added 14/01/2023)
    - added cmd setloopend
    - added to scr-mode cmds: readdata, savedata
