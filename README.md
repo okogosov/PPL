@@ -174,6 +174,12 @@ What's new in version 1.0.27 (added 14/01/2023)
 	 const x1,x2,x3 = ...
    - deleted Aliases.data
    - improved error diagnostics
+   
+What's new in version 1.0.28(added 23/01/2023)
+   - added processing storage & struct for delegates
+   - added examples for delegate.bat & struct.bat	
+   - improved processing for commands set & get   (structures support, see Tutorial.pdf)
+   - improved error diagnostics and fixed bugs
    	 
 
 
