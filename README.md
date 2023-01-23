@@ -179,6 +179,7 @@ What's new in version 1.0.28(added 23/01/2023)
    - added processing storage & struct for delegates
    - added examples for delegate.bat & struct.bat	
    - improved processing for commands set & get   (structures support, see Tutorial.pdf)
+   - improved delegates commands 
    - improved error diagnostics and fixed bugs
    	 
 
