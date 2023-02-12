@@ -11,8 +11,16 @@ The main PPL features:
    
    -possibility to add all PPL-functionality to any user Applicaions.
 
-This project includes TutorialPPL.pdf, command-line REPL utility (PPL interpreter) and other utilities , DLLs for using C# libraries, examples.
+This project includes:
+	TutorialPPL.pdf, 
+	command-line REPL utility CPPL(PPL interpreter),
+	Windows interpreter WPPL
+	and other utilities , 
+	DLLs for using C# libraries, 
+	examples.
 List of DLLs with C# functionalities will be expanded in the next versions.
+Now PPL includes the following libraries:
+	Array, ArrayList, Console, Convert, DataFrame, Dictionary, Directory, Distributions, Excel, File, Math, MN_Numerics, Queue, Random, Stack, Statistics, String, 	       Vector.
 CPPL.zip file it is framework-dependent win-x64 version.
 
 Target framework .Net 7.0.
