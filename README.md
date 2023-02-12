@@ -182,10 +182,11 @@ What's new in version 1.0.28(added 23/01/2023)
    - improved delegates commands 
    - improved error diagnostics and fixed bugs
    
-What's new in version 1.0.29(coming soon)
+What's new in version 1.0.29(added 12/2/2023)
    - added the following array commands: slice, sum, min, max, average, first, last, concat
    - added 23 new functions to DataFrame Library
-   - improved error diagnostics, tutorial 
+   - improved error diagnostics
+   - improved tutorial 
    - added samples
    	 
 
