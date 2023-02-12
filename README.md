@@ -17,9 +17,9 @@ This project includes:
 	
 	command-line REPL utility CPPL(PPL interpreter),
 	
-	Windows interpreter WPPL
+	Windows interpreter WPPL,
 	
-	and other utilities , 
+	and other utilities, 
 	
 	DLLs for using C# libraries, 
 	
@@ -29,7 +29,11 @@ List of DLLs with C# functionalities will be expanded in the next versions.
 
 Now PPL includes the following libraries:
 
-	Array, ArrayList, Console, Convert, DataFrame, Dictionary, Directory, Distributions, Excel, File, Math, MN_Numerics, Queue, Random, Stack, Statistics, String, 	       Vector.
+	Array, ArrayList, Console, Convert, DataFrame, Dictionary, 
+	
+	Directory, Distributions, Excel, File, Math, MN_Numerics, 
+	
+	Queue, Random, Stack, Statistics, String, Vector.
 	
 CPPL.zip file it is framework-dependent win-x64 version.
 
