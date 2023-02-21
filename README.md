@@ -210,8 +210,13 @@ What's new in version 1.0.29(added 12/2/2023)
    - improved error diagnostics
    - improved tutorial 
    - added samples
-   	 
-
-
+   
+What's new in version 1.0.30(coming soon)
+   - added  support in scr_format the following array commands: reverse, shift, clear, push, unshift, insert, slice, concat
+   - fixed bug in command array.copy
+   - improved tutorial 
+   - added samples
+   
+   
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
