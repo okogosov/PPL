@@ -230,7 +230,7 @@ What's new in version 1.0.30(added 23/2/2023)
    - improved tutorial 
    - added samples
    
- What's new in version 1.0.32(coming soon)
+ What's new in version 1.0.32(added 21/3/2023)
    - improved error diagnostics
    - improved tutorial 
    - changed format functions SetRow and SetColumns in DataFrame Library
