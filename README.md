@@ -1,6 +1,12 @@
 # PPL
 PPL is the Parenthesis Programming Language, in which all elements (statements, parameters, blocks) are enclosed in parentheses. 
 PPL includes a preprocessor to simplify the writing programs and reduce the number of parentheses.
+
+Functions and data are stored in PPL as several kinds of Trees – 
+root, NS, Functions, Configuration and may be displayed on Screen, saved and restored.
+
+PPL configuration is defined in the file Configuration.data and used when PPL runs or reloaded.
+
 PPL was developed  with Microsoft Developer Studio,C#, without using any third party packages.
 
 PPL is interpreted language, source code (format scr)  is translated into intermediate representation (format ppl) for immedeately execution.
@@ -19,7 +25,9 @@ This project includes:
 	
 	Windows interpreter WPPL,
 	
-	and other utilities, 
+	utility ULC for generation user's library code,
+	
+	utility Assistant for presentation format all commands,
 	
 	DLLs for using C# libraries, 
 	
@@ -221,6 +229,12 @@ What's new in version 1.0.30(added 23/2/2023)
    - improved error diagnostics
    - improved tutorial 
    - added samples
+   
+ What's new in version 1.0.32(coming soon)
+   - improved error diagnostics
+   - improved tutorial 
+   - fixed bugs
+   - added samples 
    
 For help and any kind of proposals send email to developer: 
   Oscar Kogosov, ok21@hotmail.com
