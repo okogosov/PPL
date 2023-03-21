@@ -233,7 +233,7 @@ What's new in version 1.0.30(added 23/2/2023)
  What's new in version 1.0.32(coming soon)
    - improved error diagnostics
    - improved tutorial 
-   - fixed bugs
+   - changed format functions SetRow and SetColumns in DataFrame Library
    - added samples 
    
 For help and any kind of proposals send email to developer: 
