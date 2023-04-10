@@ -236,11 +236,12 @@ What's new in version 1.0.30(added 23/2/2023)
    - changed format functions SetRow and SetColumns in DataFrame Library
    - added samples 
    
-    What's new in version 2.0.1(added 10/4/2023)
+ What's new in version 2.0.1(added 10/4/2023) 
    - creation code without operator set
    - added command getresult
    - added return result from called function
-   - new version utility ULC to create wrappers
+   - new version of utility ULC to create wrappers
+   - new version of command dstree
    - improved tutorial
    - improved error diagnostics
    
