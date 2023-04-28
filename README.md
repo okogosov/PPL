@@ -20,16 +20,17 @@ The main PPL features:
 This project includes:
 
 	TutorialPPL.pdf, 
+	CPPL.zip:
 	
-	command-line REPL utility CPPL(PPL interpreter),
+	  -command-line REPL utility CPPL(PPL interpreter)  ,
 	
-	Windows interpreter WPPL,
+	  -Windows interpreter WPPL,
 	
-	utility ULC for generation user's library code,
+	  -utility ULC for generation user's library code,
 	
-	utility Assistant for presentation format all commands,
+	  -utility Assistant for presentation format all commands,
 	
-	DLLs for using C# libraries, 
+	  - DLLs for using C# libraries and others, 
 	
 	examples.
 		
@@ -43,7 +44,7 @@ Now PPL includes the following libraries:
 	
 	Queue, Random, Stack, Statistics, String, Vector.
 	
-CPPL.zip file it is framework-dependent win-x64 version.
+CPPL.exe and WPPL.exe are framework-dependent win-x64 version.
 
 Target framework .Net 7.0.
 
@@ -54,6 +55,9 @@ Target framework .Net 7.0.
    examples.bat
 4. Run command-line interpreter - 
    cppl.exe or wppl.exe 
+
+For help, questions and any kind of business proposals send email to developer: 
+  Oscar Kogosov, ok21@hotmail.com
 
 What's new in version 1.0.6:
    - fixed bugs
@@ -243,7 +247,4 @@ What's new in version 1.0.30(added 23/2/2023)
    - new version of utility ULC to create wrappers
    - new version of command dstree
    - improved tutorial
-   - improved error diagnostics
-   
-For help and any kind of proposals send email to developer: 
-  Oscar Kogosov, ok21@hotmail.com
+   - improved error diagnostics   
