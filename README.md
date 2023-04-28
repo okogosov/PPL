@@ -9,7 +9,7 @@ PPL configuration is defined in the file Configuration.data and used when PPL ru
 
 PPL was developed  with Microsoft Developer Studio,C#, without using any third party packages.
 
-PPL is interpreted language, source code (format scr)  is translated into intermediate representation (format ppl) for immedeately execution.
+PPL is interpreted language, source code (format scr)  is translated into intermedeate representation (format ppl) for immediate execution.
 
 The main PPL features:
 
