@@ -22,7 +22,7 @@ This project includes:
 	TutorialPPL.pdf, 
 	CPPL.zip:
 	
-	  -command-line REPL utility CPPL(PPL interpreter)  ,
+	  -command-line REPL utility CPPL(PPL interpreter),
 	
 	  -Windows interpreter WPPL,
 	
@@ -56,8 +56,10 @@ Target framework .Net 7.0.
 4. Run command-line interpreter - 
    cppl.exe or wppl.exe 
 
-For help, questions and any kind of business proposals send email to developer: 
+For help, questions and any kind of business proposals send email to developer:
+
   Oscar Kogosov, ok21@hotmail.com
+
 
 What's new in version 1.0.6:
    - fixed bugs
