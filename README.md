@@ -5,17 +5,17 @@ PPL includes a preprocessor to simplify the writing programs and reduce the numb
 Functions and data are stored in PPL as several kinds of Trees – 
 root, NS, Functions, Configuration and may be displayed on Screen, saved and restored.
 
-PPL configuration is defined in the file Configuration.data and used when PPL runs or reloaded.
+PPL configuration is defined in the file "Configuration.data" file and used when PPL runs or reloaded.
 
 PPL was developed  with Microsoft Developer Studio,C#, without using any third party packages.
 
-PPL is interpreted language, source code (format scr)  is translated into intermedeate representation (format ppl) for immediate execution.
+PPL is interpreted language, source code (in the format "scr")  is translated into intermediate representation (in the format "ppl") for immediate execution.
 
 The main PPL features:
 
-   -extensibility, using functionalities of C# and adding user’s libraries by means of creating DLLs.
+   -extensibility, which allows users to use C# functionalities and add their own libraries by creating DLLs.
    
-   -possibility to add all PPL-functionality to any user Applicaions.
+   -ability to add all PPL-functionality to any user Applicaions.
 
 This project includes:
 
