@@ -249,4 +249,10 @@ What's new in version 1.0.30(added 23/2/2023)
    - new version of utility ULC to create wrappers
    - new version of command dstree
    - improved tutorial
-   - improved error diagnostics   
+   - improved error diagnostics  
+   
+ What's new in version 2.0.2(added 25/5/2023) 
+ - improved tutorial
+ - improved instruction 'set' recognition algorithm
+ - fixed bug in in instruction switch-default
+ - improved error diagnostics  
