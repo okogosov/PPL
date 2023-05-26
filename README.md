@@ -256,3 +256,6 @@ What's new in version 1.0.30(added 23/2/2023)
  - improved instruction 'set' recognition algorithm
  - fixed bug in instruction switch-default
  - improved error diagnostics  
+
+v.2.0.2.1
+ - corrected main.help and JsonHelp.Main.json for Assist
