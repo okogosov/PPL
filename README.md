@@ -259,3 +259,5 @@ What's new in version 1.0.30(added 23/2/2023)
 
 v.2.0.2.1
  - corrected main.help and JsonHelp.Main.json for Assist
+
+Article about AddSet - https://d.strumenta.community/t/to-set-or-not-to-set-in-ppl/1824
