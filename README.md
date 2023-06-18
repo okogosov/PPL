@@ -2,12 +2,12 @@
 PPL is the Parenthesis Programming Language, in which all elements (statements, parameters, blocks) are enclosed in parentheses. 
 PPL includes a preprocessor to simplify the writing programs and reduce the number of parentheses.
 
-Functions and data are stored in PPL as several kinds of Trees – 
+Code, functions unctions and data are stored in PPL as several kinds of Trees – 
 root, NS, Functions, Configuration and may be displayed on Screen, saved and restored.
 
 PPL configuration is defined in the file "Configuration.data" file and used when PPL runs or reloaded.
 
-PPL was developed  with Microsoft Developer Studio,C#, without using any third party packages.
+PPL is being developed  with Microsoft Developer Studio,C#, without using any third party packages.
 
 PPL is interpreted language, source code (in the format "scr")  is translated into intermediate representation (in the format "ppl") for immediate execution.
 
@@ -262,3 +262,7 @@ v.2.0.2.1
 
 Article about AddSet - https://d.strumenta.community/t/to-set-or-not-to-set-in-ppl/1824
 AddSet - improved source code  (10/6/2023)
+
+What's new in version 2.0.3 (will be avalable soon)
+ - improved error diagnostics, added information about error location (file name and line number)  
+
