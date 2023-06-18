@@ -263,6 +263,7 @@ v.2.0.2.1
 Article about AddSet - https://d.strumenta.community/t/to-set-or-not-to-set-in-ppl/1824
 AddSet - improved source code  (10/6/2023)
 
+
 What's new in version 2.0.3 (will be avalable soon)
  - improved error diagnostics, added information about error location (file name and line number)  
 
