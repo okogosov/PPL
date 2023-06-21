@@ -264,7 +264,7 @@ Article about AddSet - https://d.strumenta.community/t/to-set-or-not-to-set-in-p
 AddSet - improved source code  (10/6/2023)
 
 
-What's new in version 2.0.3 (21/6/2023)
+What's new in version 2.0.3 (added 21/6/2023)
  - improved error diagnostics, added information about error location (file name and line number) during PPL PreTranslator processing
  - upgrade to .NET8
 
