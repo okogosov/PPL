@@ -11,6 +11,10 @@ PPL is being developed  with Microsoft Developer Studio,C#, without using any th
 
 PPL is interpreted language, source code (in the format "scr")  is translated into intermediate representation (in the format "ppl") for immediate execution.
 
+
+File DesignPPL.pdf briefly describes the most important code processing steps.
+
+
 The main PPL features:
 
    -extensibility, which allows users to use C# functionalities and add their own libraries by creating DLLs.
