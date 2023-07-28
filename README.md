@@ -275,3 +275,8 @@ What's new in version 2.0.3 (added 21/6/2023)
  - improved error diagnostics, added information about error location (file name and line number) during PPL PreTranslator processing
  - upgrade to .NET8
 
+What's new in version 2.0.4 (added 28/7/2023)
+ -  added 2 methods to library "Console" (for Admin.Mode): Console.Window.Width, Console.Window.Height
+ -  added commands: dstruct, funcstruct (adding function to structure)
+ -  improved error diagnostics
+
