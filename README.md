@@ -310,7 +310,7 @@ What's new in version 2.0.4 (added 28/7/2023)
 
 What's new in version 2.0.5 (added 23/8/2023)
 
- -  added support functions of structures (replacing functions,access to funcions and variables by "this")
+ -  added support functions of structures (replacing functions,access to functions and variables by "this")
  -  added folder "PPL Samples"
  -  improved error diagnostics    
 
