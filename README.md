@@ -281,7 +281,7 @@ What's new in version 2.0.4 (added 28/7/2023)
  -  added commands: dstruct, funcstruct (adding function to structure)
  -  improved error diagnostics
 
- -  What's new in version 2.0.5 (added 23/8/2023)
+What's new in version 2.0.5 (added 23/8/2023)
  -  added support functions of structures (replacing functions,access to funcions and variables by "this")
  -  added folder "PPL Samples"
  -  improved error diagnostics    
