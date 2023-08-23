@@ -69,19 +69,23 @@ For help, questions and any kind of business proposals send email to developer:
 
 
 What's new in version 1.0.6:
+
    - fixed bugs
    - added windows interpreter wppl.exe
    - added 3 libraries: Dictionary, Stack, Queue
    
 What's new in version 1.0.7:
+
    - added infinity loop
    - added example gcf.scr
 
 What's new in version 1.0.8:
+
    - upgrade to .NET6
    - added libraries: File, Random,Vector, Matrix,MN_Numerics and MathNet.Numerics
 
 What's new in version 1.0.9:
+
    - added cmd calc
    - added concept of public and private variables
 
@@ -92,6 +96,7 @@ What's new in version 1.0.10:
    - fixed bugs 
    
 What's new in version 1.0.11
+
    - added commands sleep, write#
    - added Library Console
    - added samples
@@ -99,6 +104,7 @@ What's new in version 1.0.11
    - fixed bugs
 
 What's new in version 1.0.12
+
    - this version limited for complex calculations
    - added cmds call, funcname and examples
    - libraries Vector and Matrix are changed
@@ -107,6 +113,7 @@ What's new in version 1.0.12
    - fixed bugs
 
 What's new in version 1.0.13
+
    - added cmds traceppl, recreate, argc
    - added delete methods to ArrayList.dll, Queue.dll,Stack.dll,Dictionary.dll
    - improved machanism transmit data between functions
@@ -114,6 +121,7 @@ What's new in version 1.0.13
    - fixed bugs
    
 What's new in version 1.0.15
+
    - added utility Assistant. PPL Assistant displays format commands in ppl and scr modes.  
      As well this application displays format methods in additional libraries. 
    - added to utility CreateUserLibCode generation methods
@@ -121,16 +129,19 @@ What's new in version 1.0.15
    - added command getargname 
 
 What's new in version 1.0.16
+
 - added library Array
 - added support delegates and callbacks
 - changed utility CreateULC.exe
 
 What's new in version 1.0.17
+
 - added command setkvp
 - changed algorithm processing command set
 - fixed bugs
 
 What's new in version 1.0.18
+
 - operator "array" syntax is changed in scr-mode
 - added library DataFrame, source files in DataFrame.zip, explanations in TutorialPPL.pdf, samples in CPPL.zip(directory examples\df\*.scr). This library will be increased to the desire of users.
 - fixed bugs
@@ -138,11 +149,13 @@ What's new in version 1.0.18
 - I thank my old friend Leonid Feygin for using PPL in statistical programs and help with PPL troubleshooting.
 
 What's new in version 1.0.19
+
 - added cmd 'struct' and function CopyStruct
 - added Statistics library (sources and samples) based on MathNet.Numerics.Statistics
 - fixed bugs
 
 What's new in version 1.0.20
+
 - added array cmds - 
             array.push, array.pop,array.reverse, array.shift, array.remove,
             array.clear, array.unshift, array.insert
@@ -160,6 +173,7 @@ Now accessible static functions for classes Normal, ChiSquared,FisherSnedecor,St
 
 
 What's new in version 1.0.21
+
 - added Distributions library (classes Normal, ChiSquared,FisherSnedecor,StudentT)
 - instead of utlity CreateUserLib -> new utlility ULC.exe 
 - fixed bugs.
@@ -171,6 +185,7 @@ What's new in version 1.0.22
 - PCR - struct in block (not fixed)
 
 What's new in version 1.0.23
+
 - added mode to command createpplcode (cpc)
 - improved diagnostic
 - added commands definestruct, insertstruct, createstruct instead of commands struct and function copystruct
@@ -179,10 +194,12 @@ TestGetContents.zip
    GetContents - to get string between start & end characters in string, contained quotes. This function used in preprocessor PPL
 
 What's new in version 1.0.24
+
    -added using Math-functions to preprocessor PPL, see in details in Tutorial
    -improved error diagnoctic and fixed bugs
 
 What's new in version 1.0.25
+
    - upgrade to .NET7
    - added type 'storage' for function parameters
    - improved error diagnostic for cmds 'var' and 'const'
@@ -200,6 +217,7 @@ Added sample Erato.zip (Sieve of Eratosphenes) -
 	defined in files Patterns.json & Keywords.json, read README.txt with detailed explanations
 
 What's new in version 1.0.26 (added 04/01/2023)
+
    - added format scr for the following commands:
    	storage commands, realloc, createpplcode (cpc)
    - changed cmd 'import' - load dll from user directory 	
@@ -210,6 +228,7 @@ What's new in version 1.0.26 (added 04/01/2023)
    - added samples
    
 What's new in version 1.0.27 (added 14/01/2023)
+
    - added cmd setloopend
    - added to scr-mode cmds: readdata, savedata
    - added numerous creation: var x1,x2,x3... [= ...]
@@ -219,6 +238,7 @@ What's new in version 1.0.27 (added 14/01/2023)
    - improved error diagnostics
    
 What's new in version 1.0.28(added 23/01/2023)
+
    - added processing storage & struct for delegates
    - added examples for delegate.bat & struct.bat	
    - improved processing for commands set & get   (structures support, see Tutorial.pdf)
@@ -226,6 +246,7 @@ What's new in version 1.0.28(added 23/01/2023)
    - improved error diagnostics and fixed bugs
    
 What's new in version 1.0.29(added 12/2/2023)
+
    - added the following array commands: slice, sum, min, max, average, first, last, concat
    - added 23 new functions to DataFrame Library
    - improved error diagnostics
@@ -233,17 +254,20 @@ What's new in version 1.0.29(added 12/2/2023)
    - added samples
       
 What's new in version 1.0.30(added 23/2/2023)
+
    - added  support in scr_format the following array commands: reverse, shift, clear, push, unshift, insert, slice, concat, copy
    - fixed bug in command array.copy
    - improved tutorial 
    - added samples
  
  What's new in version 1.0.31(added 27/2/2023)
+ 
    - improved error diagnostics
    - improved tutorial 
    - added samples
    
  What's new in version 1.0.32(added 21/3/2023)
+ 
    - improved error diagnostics
    - improved tutorial 
    - changed format functions SetRow and SetColumns in DataFrame Library
@@ -259,12 +283,14 @@ What's new in version 1.0.30(added 23/2/2023)
    - improved error diagnostics  
    
  What's new in version 2.0.2(added 25/5/2023) 
+ 
  - improved tutorial
  - improved instruction 'set' recognition algorithm
  - fixed bug in instruction switch-default
  - improved error diagnostics  
 
 v.2.0.2.1
+
  - corrected main.help and JsonHelp.Main.json for Assist
 
 Article about AddSet - https://d.strumenta.community/t/to-set-or-not-to-set-in-ppl/1824
@@ -272,6 +298,7 @@ AddSet - improved source code  (10/6/2023)
 
 
 What's new in version 2.0.3 (added 21/6/2023)
+
  - improved error diagnostics, added information about error location (file name and line number) during PPL PreTranslator processing
  - upgrade to .NET8
 
@@ -282,6 +309,7 @@ What's new in version 2.0.4 (added 28/7/2023)
  -  improved error diagnostics
 
 What's new in version 2.0.5 (added 23/8/2023)
+
  -  added support functions of structures (replacing functions,access to funcions and variables by "this")
  -  added folder "PPL Samples"
  -  improved error diagnostics    
