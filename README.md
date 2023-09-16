@@ -312,5 +312,12 @@ What's new in version 2.0.5 (added 23/8/2023)
 
  -  added support functions of structures (replacing functions,access to functions and variables by "this")
  -  added folder "PPL Samples"
- -  improved error diagnostics    
+ -  improved error diagnostics
+
+What's new in version 2.0.6 (added 16/9/2023) 
+
+- improved support inside and outside functions  of structures (replacing functions,access to functions and variables by "this")
+- added samples
+- improved error diagnostics
+  
 
