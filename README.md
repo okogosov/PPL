@@ -324,6 +324,6 @@ What's new in version 2.0.7 (added 26/10/2023)
 
 - added encapsulation structure to structure
 - fixed bugs and added explanation to tutorial
-- added command 'type'
+- added command  'type'
   
 
