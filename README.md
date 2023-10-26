@@ -319,5 +319,11 @@ What's new in version 2.0.6 (added 16/9/2023)
 - improved support inside and outside functions  of structures (replacing functions,access to functions and variables by "this")
 - added samples
 - improved error diagnostics
+
+What's new in version 2.0.7 (added 26/10/2023)  
+
+- added encapsulation structure to structure
+- fixed bugs and added explanation to tutorial
+- added command 'type'
   
 
