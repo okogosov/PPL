@@ -59,7 +59,7 @@ Target framework .Net7.0 (CPPL.NET7.zip).
 2. Read TutorialPPL.VERSION.pdf
 3. Run all examples - 
    cd cppl, 
-   examples.bat
+   *.bat
 4. Run command-line interpreter - 
    cppl.exe or wppl.exe 
 
@@ -323,7 +323,7 @@ What's new in version 2.0.6 (added 16/9/2023)
 What's new in version 2.0.7 (added 26/10/2023)  
 
 - added encapsulation structure to structure
-- fixed bugs and added explanation to tutorial
+- fixed bugs and added explanation in tutorial
 - added command  'type'
 
 What's new
