@@ -329,5 +329,6 @@ What's new in version 2.0.7 (added 26/10/2023)
 What's new
 
 - improved and supplemented code generator PJ.zip with explanation how to convert code in accordance with defined rules.
+- fixed bug in Excel.dll & ExcelFW.dll   (12/05/23) 
   
 
