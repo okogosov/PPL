@@ -331,4 +331,7 @@ What's new
 - improved and supplemented code generator PJ.zip with explanation how to convert code in accordance with defined rules.
 - fixed bug in Excel.dll & ExcelFW.dll   (12/05/23) 
   
+What's new in version 2.0.8 (added 15/12/2023)  
 
+- improved code array service
+- improved String.DLL
