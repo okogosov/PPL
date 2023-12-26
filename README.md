@@ -335,3 +335,8 @@ What's new in version 2.0.8 (added 15/12/2023)
 
 - improved code array service
 - improved String.DLL
+
+What's new in version 2.0.8.1 (added 26/12/2023)  
+
+- added finally and failure blocks, which are called at the end of successful completion or in case of emergency termination
+  of script or functions.
