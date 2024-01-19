@@ -340,3 +340,7 @@ What's new in version 2.0.8.1 (added 26/12/2023)
 
 - added finally and failure blocks, which are called at the end of successful completion or in case of emergency termination
   of script or functions.
+
+What's new in version 2.0.8.2 (added 19/1/2024)  
+
+- added library DateTime with sources,tutorial and samples
