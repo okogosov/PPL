@@ -2,7 +2,7 @@
 PPL is the Parenthesis Programming Language, in which all elements (statements, parameters, blocks) are enclosed in parentheses. 
 PPL includes a preprocessor to simplify the writing programs and reduce the number of parentheses.
 
-Code, functions unctions and data are stored in PPL as several kinds of Trees – 
+Code, functions and data are stored in PPL as several kinds of Trees – 
 root, NS, Functions, Configuration and may be displayed on Screen, saved and restored.
 
 PPL configuration is defined in the file "Configuration.data" file and used when PPL runs or reloaded.
@@ -49,8 +49,6 @@ Now PPL includes the following libraries:
 	Queue, Random, Stack, Statistics, String, Vector.
 	
 CPPL.exe and WPPL.exe are framework-dependent win-x64 version.
-
-Target framework .Net8.0 (CPPL.zip).
 
 Target framework .Net7.0 (CPPL.NET7.zip).
 
@@ -300,7 +298,6 @@ AddSet - improved source code  (10/6/2023)
 What's new in version 2.0.3 (added 21/6/2023)
 
  - improved error diagnostics, added information about error location (file name and line number) during PPL PreTranslator processing
- - upgrade to .NET8
 
 What's new in version 2.0.4 (added 28/7/2023)
 
