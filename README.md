@@ -342,4 +342,4 @@ What's new in version 2.0.8.2 (added 19/1/2024)
 
 - added library DateTime with sources,tutorial and samples
 
--PPL.Parser.cs is converted  to C++ TreeCreatorTest.cpp and added to Github(Microsoft Visual Studio 2022 project).
+-PPL.Parser.cs is converted  to C++ project TreeCreatorTest and added to Github(Microsoft Visual Studio 2022 project) (31/1/2024).
