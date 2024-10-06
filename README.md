@@ -348,4 +348,4 @@ What's new in version 2.0.8.4  (added 06/10/2024)
 
 - this version is the base for creation PPL-version, written with C++ instead of C# (project name - "Forest"),
 - project "Forest" is in progress, its performance is better than PPL.
-- fixed bugs, described during creation "Forest", performance improved.
+- fixed bugs, detected during creation "Forest", performance improved.
